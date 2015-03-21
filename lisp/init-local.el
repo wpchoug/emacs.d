@@ -5,10 +5,10 @@
 
 ;;; mobile org
 ;; org mobile
-(setq org-directory "~/dev/Orgs")
-(setq org-mobile-directory "~/dev/others/MobileOrg/")
-(setq org-mobile-inbox-for-pull "~/dev/Orgs/Inbox.note.org")
-(setq org-mobile-use-encryption t)
+(setq org-directory "~/home/Orgs")
+(setq org-mobile-directory "~/dev/MobileOrg/")
+(setq org-mobile-inbox-for-pull "~/home/Orgs/Inbox.note.org")
+(setq org-mobile-use-encryption nil)
 (setq org-mobile-encryption-password "mobileorgw")
 
 
@@ -101,7 +101,7 @@
 
 (add-hook 'eshell-mode-hook
           #'(lambda ()
-              (define-key eshell-mode-map (kbd "C-c C-l")  'helm-eshell-history)))
+              (define-key eshell-mode-map (kbd "M-r")  'helm-eshell-history)))
 
 (define-key shell-mode-map (kbd "C-c C-l") 'helm-comint-input-ring)
 
