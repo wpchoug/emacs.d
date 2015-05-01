@@ -1,3 +1,10 @@
+/SessionDesktop.el
+/recentf
+/lisp/wpchou-tmp.el
+/chinese-fonts-setup/v3
+
+
+
 /url/cache
 /.emacs.desktop
 /auto-save-list
@@ -36,9 +43,4 @@ site-lisp/package/
 /.cask/
 /.sx/
 /org-clock-save.el
-
-
-/SessionDesktop.el
-/recentf
-/lisp/wpchou-tmp.el
-/chinese-fonts-setup/v3
+/ditaa.jar
