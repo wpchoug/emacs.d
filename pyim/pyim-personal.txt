@@ -1,0 +1,68 @@
+;; -*- coding: utf-8 -*-
+a 啊 阿
+b-c 不错
+b-t 不太
+bu 不
+bu-cuo 不错
+bu-tai 不太
+d-x 大小
+da-xiao 大小
+de 的
+dou 都
+fa 法
+geng 更
+h-l 回来
+h-sh 合适
+he 和
+he-shi 合适
+hui-lai 回来
+jiu 就
+kuang 框
+l-h 厉害 利害
+le 了
+li-hai 厉害 利害
+na 那
+neng 能
+q-d 启动
+qi-dong 启动
+qiang 强
+r-g 如果
+ru-guo 如果
+sh-d 时代
+sh-r 输入
+sh-r-f 输入法
+shi 时
+shi-dai 时代
+shu-ru 输入
+shu-ru-fa 输入法
+t-x 太小
+t-y 体验
+t-zh 调整
+tai 太
+tai-xiao 太小
+ti-yan 体验
+tiao-zheng 调整
+w-h 文化
+wen-hua 文化
+wo 我
+x 下
+x-sh 显示 现实
+xian-shi 显示 现实
+y-x 允许
+y-y 一样
+yi-yang 一样
+yun-xu 允许
+z-d 自动
+zai 在
+zh-g 这个
+zh-m 这么
+zh-w 中文
+zh-w-sh-r-f 中文输入法
+zhe 这
+zhe-ge 这个
+zhe-me 这么
+zhen 真
+zhong-wen 中文
+zhong-wen-shu-ru-fa 中文输入法
+zi-dong 自动
+zuo 做
